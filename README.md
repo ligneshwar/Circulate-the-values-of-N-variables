@@ -18,6 +18,9 @@ evaluate the a input.
 ### Step 6: 
 enter integer (n) in input.
 ## Program:
+## Developed by:K.Ligneshwar
+## Reg no:212223230113
+## Program to circulate the n variables using function concept
 ```
 def circulate():
     list1=eval(input())
@@ -26,7 +29,6 @@ def circulate():
 
 ```
 ## Output:
-![Screenshot 2024-03-18 170555](https://github.com/ligneshwar/Circulate-the-values-of-N-variables/assets/149365037/1e227973-e11d-467b-aada-9ccf418d2542)
-
+![alt text](image.png)
 ## Result:
 The Circulate-the-values-of-N-variables is succeed.
